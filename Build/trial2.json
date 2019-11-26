@@ -1,0 +1,15 @@
+{
+"companyName": "Drona",
+"productName": "Drona",
+"productVersion": "0.1",
+"dataUrl": "trial2.data.unityweb",
+"wasmCodeUrl": "trial2.wasm.code.unityweb",
+"wasmFrameworkUrl": "trial2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#37CBD1",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
